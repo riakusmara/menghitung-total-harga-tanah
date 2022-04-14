@@ -1,4 +1,4 @@
-public class Tugas3a {
+public class HitungHargaTanah {
     public static void main(String[] args) {
     int p = 12;
     int l = 8;
